@@ -1,0 +1,29 @@
+{
+  "required": true,
+  "package": "dev.infernal_coding.flamesenchants.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "flamesenchants.refmap.json",
+  "mixins": [
+    "AbstractArrowEntityMixin",
+    "AbstractBlockMixin",
+    "BowItemMixin",
+    "CombatRulesMixin",
+    "CrossbowItemMixin",
+    "EnchantmentHelperMixin",
+    "ExperienceOrbEntityMixin",
+    "FrostWalkerEnchantmentMixin",
+    "ItemStackMixin",
+    "LivingEntityMixin",
+    "LootingEnchantBonusMixin",
+    "MobEntityMixin",
+    "MultishotEnchantmentMixin",
+    "PiercingEnchantmentMixin",
+    "PlayerEntityMixin",
+    "ProtectionEnchantmentMixin",
+    "RandomChanceWithLootingMixin",
+    "RepairContainerMixin",
+    "RiptideEnchantmentMixin",
+    "TridentEntityMixin"
+  ],
+  "minVersion": "0.8"
+}
